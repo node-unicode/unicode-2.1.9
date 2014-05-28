@@ -1,0 +1,1 @@
+module.exports={'properties':['Any','Assigned','ASCII'],'categories':['Cc','C','Zs','Z','Po','P','Sc','S','Ps','Pe','Sm','Pd','Nd','N','Lu','L','LC','Sk','Pc','Ll','So','Pi','No','Pf','Lo','Lt','Cn','Lm','Mn','M','Me','Mc','Cf','Zl','Zp','Nl','Cs','Co'],'bidi':['ON','S','B','WS','ET','CS','ES','EN','L','R','AN']}
