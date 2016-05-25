@@ -65,6 +65,10 @@ require('unicode-2.1.9/properties/Assigned/code-points');
 require('unicode-2.1.9/properties/Assigned/symbols');
 require('unicode-2.1.9/properties/Assigned/regex');
 
+require('unicode-2.1.9/properties/Bidi_Mirrored/code-points');
+require('unicode-2.1.9/properties/Bidi_Mirrored/symbols');
+require('unicode-2.1.9/properties/Bidi_Mirrored/regex');
+
 // categories:
 
 require('unicode-2.1.9/categories').get(codePoint); // lookup map
