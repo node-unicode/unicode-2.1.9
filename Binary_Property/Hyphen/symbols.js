@@ -1,0 +1,1 @@
+module.exports=['-','\xAD','\u2010','\u2011','\u30FB','\uFE63','\uFF0D','\uFF65']
