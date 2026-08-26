@@ -1,0 +1,1 @@
+export default /[\u01C5\u01C8\u01CB\u01F2]/;
